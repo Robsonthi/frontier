@@ -11,9 +11,6 @@ class Stack():
         else:
             return self.frontier.pop()
 
-    #def contains_node(self, node):
-    #    return any(node.pos == item.pos for item in self.frontier)
-
     def empty(self):
         return len(self.frontier) == 0
 
