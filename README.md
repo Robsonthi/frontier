@@ -1,2 +1,2 @@
 # frontier
- frontier with stack, queue and ordered queue 
+ frontier with stack, queue and ordered queue. 
